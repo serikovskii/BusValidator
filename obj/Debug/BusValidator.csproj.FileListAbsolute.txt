@@ -1,0 +1,6 @@
+C:\Users\Saltanat\source\repos\BusValidator\BusValidator\bin\Debug\BusValidator.exe.config
+C:\Users\Saltanat\source\repos\BusValidator\BusValidator\bin\Debug\BusValidator.exe
+C:\Users\Saltanat\source\repos\BusValidator\BusValidator\bin\Debug\BusValidator.pdb
+C:\Users\Saltanat\source\repos\BusValidator\BusValidator\obj\Debug\BusValidator.csproj.CoreCompileInputs.cache
+C:\Users\Saltanat\source\repos\BusValidator\BusValidator\obj\Debug\BusValidator.exe
+C:\Users\Saltanat\source\repos\BusValidator\BusValidator\obj\Debug\BusValidator.pdb
